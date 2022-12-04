@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table>
+    <!-- Item1:Language  Note:Defalut Language begin -->
+    <item name="Language" value="en-US"/>
+    <!-- end -->
+    <!-- Item2:AllApk  Note:All third Apks or custom's Apks begin -->
+    <item name="AllApk" value="BRApps2-mot-signed,MotorolaLauncherRes,MotorolaLauncherRes_amxbr,MotorolaLauncherRes_retbr,MotorolaLauncherRes_timbr,MotorolaLauncherRes_tefbr"/>
+    <!-- end -->
+    <!-- Item3:ShowApk  Notoe:Show ccode third Apks or custom's Aps begin -->
+    <!-- end -->
+    <!-- Item4:Timezone  Notoe:Time zone begin -->
+    <item name="Timezone" value="America/Recife"/>
+    <!-- end -->
+    <!-- Item5:DefaultInputMethod  Notoe:Defalut input method begin -->
+    <!-- end -->
+    <!-- Item6:DefaultWallpaper  Notoe:Default wallpaper begin -->
+    <!-- end -->
+    <!-- Item7:SmsEncodeType  Notoe:Sms encode type begin -->
+    <!-- end -->
+    <!-- Item8:NumMinMatch  Notoe:Number match minLength begin -->
+    <!-- end -->
+    <!-- Item9:SpnFilePath  Notoe:Spn file path begin -->
+    <!-- end -->
+    <!-- Item10:ApnFilePath  Notoe:Apn file path begin -->
+    <!-- end -->
+    <!-- Item11:VspnGidlFilePath  Notoe:Virtual SPN by Gidl begin -->
+    <!-- end -->
+    <!-- Item12:VspnPnnFilePath  Notoe:Virtual SPN by Pnn begin -->
+    <!-- end -->
+    <!-- Item13:VspnSpnFilePath  Notoe:Virtual SPN by Spn begin -->
+    <!-- end -->	
+    <!-- Item14:VspnImsiFilePath  Notoe:Virtual SPN by Imsi begin -->
+    <!-- end -->
+    <!-- Item15:DefaultWorkspace  Notoe:Default workspace begin -->
+    <!-- end -->
+    <!-- Item16:ShowHyphenation  Notoe:InCall Dial number middle begin -->
+    <!-- end -->
+    <!-- Item17:Ecclist  Notoe:EccList path begin -->
+    <!-- end -->
+    <!-- Item18:CbonSet  Notoe:CB open/defalut shinbun begin -->
+    <!-- end -->
+    <!-- Item19:DateFormat  Notoe:Date format begin -->
+    <item name="DateFormat" value="yyyy-MM-dd" />
+    <!-- end -->
+    <!-- Item20:Use24hFormat  Notoe:Open 24 hour format for bug#164768 by yuanzhiqiang begin -->
+	<item name="Use24hFormat" value="no"/>
+    <!-- end -->
+    <!-- Item21:AddYahooBookmarks  Notoe:Add yahoo bookmarks begin -->
+    <!-- end -->
+    <!-- Item22:ChromeHomepage  Notoe:Chrome home page begin -->
+    <!-- end -->
+    <!-- Item23:ChromeBookmarks  Notoe:Chrome bookmarks begin -->
+    <!-- end -->
+    <!-- Item24:Homepage  Notoe:Defalut Browser Homepage begin -->
+    <!-- end -->
+    <!-- Item25:Bookmarks  Notoe:Defalut Browser Bookmarks begin -->
+    <!-- end -->	
+    <!-- Item26:SearchEngine  Notoe:Defalut Browser SearchEngine begin -->
+    <!-- end -->
+    <!-- Item27:ShowCMASTitleTime  Notoe:Show CB Title time begin -->
+    <item name="ShowCMASTitleTime" value="yes"/>
+    <!-- end -->
+    <!-- Item28:SpnNotDisplay  Notoe:Don't display Spn begin -->
+    <!-- end -->
+    <!-- Item29:CustomEhplmn  Notoe:Remove Roming begin -->
+    <!-- end -->
+    <!-- Item30:USSDBehindInCall  Notoe:USSD Dialog Behind InCall begin -->
+    <!-- end -->
+    <!-- Item31:USSDShowTitle  Notoe:USSD InputDialog show title  begin -->
+    <!-- end -->
+    <!-- Item32:NetworkInfoLine1  Notoe:Display SPN on extend statusbar begin -->
+    <item name="NetworkInfoLine1" value="yes"/>
+    <!-- end -->
+    <!-- Item36:UserRememberSim  Notoe:User remember calling sim  begin -->
+    <item name="UserRememberSim" value="yes"/>
+    <!-- end -->
+    <!-- Item37:enableGroupMms Notoe:enable Group Mms begin -->
+    <item name="enableGroupMms" value="no"/>
+    <!-- end -->
+    <!-- Item39:smsToMmsTextThreshold Notoe:sms To Mms Text Threshold begin -->
+    <item name="smsToMmsTextThreshold" value="6"/>
+    <!-- end -->
+    <!-- Item43:ShowCMASTenMin  Notoe:Show CMAS for ten minutes  begin -->
+    <item name="ShowCMASTenMin" value="yes"/>
+    <!-- end -->
+    <!-- Item48:CMASAudioAlwarys Notoe:Alwarys play Audio and vibrate when a CMAS come-->
+    <item name="CMASAudioAlwarys" value="yes"/>
+    <!-- end -->
+    <!-- Item49:CMASDisableKey Notoe:Disable all key when a CMAS come-->
+    <item name="CMASDisableKey" value="yes"/>
+    <!-- end -->
+
+    <!-- Item51:smsUsesSimpleCharactersOnly Notoe:sms Uses Simple Characters Only begin -->
+    <item name="smsUsesSimpleCharactersOnly" value="yes"/>
+    <!-- end -->
+    <!-- Item53:allowEnablingWapPushSI Notoe:google sms allow enabling wap push SI begin -->
+    <item name="allowEnablingWapPushSI" value="yes"/>
+    <!-- end -->
+    <!-- Item54:enableWapPushSI Notoe:google sms enable wap push SI -->
+    <item name="enableWapPushSI" value="yes"/>
+    <!-- end -->
+    <!-- Item56:919And911AsEMER Notoe:919 And 911 As Emergency Cell Broadcast begin -->
+    <item name="919And911AsEMER" value="yes"/>
+    <!-- end -->
+    <!-- Item58:considerationSpecialChar Notoe:not consideration Special Char begin -->
+    <item name="considerationSpecialChar" value="yes"/>
+    <!-- end -->
+    <item name="QueryNetworksWithoutACT" value="yes"/>
+    <!-- Item63:ChangeVolteIcon  Notoe:change Volte icon  begin -->
+    <item name="ChangeVolteIcon" value="yes"/>
+    <!-- end -->
+    <item name="TimVolteWFCIcon" value="yes"/>
+</table>

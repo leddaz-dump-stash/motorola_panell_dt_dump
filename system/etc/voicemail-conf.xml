@@ -1,0 +1,74 @@
+<voicemail>
+  <voicemailamxar numeric="" vmnumber="" carrier=""/>
+  <voicemailamxbr numeric="72405" vmnumber="*100" carrier="Claro Brasil"/>
+  <voicemailamxcl numeric="73003" vmnumber="*20" carrier="ClaroChile"/>
+  <voicemailamxco numeric="" vmnumber="" carrier=""/>
+  <voicemailamxmx numeric="334020" vmnumber="*86" carrier="TelcelMexico"/>
+  <voicemailamxpe numeric="71610" vmnumber="131" carrier="ClaroPeru"/>
+  <voicemailamxla numeric="" vmnumber="" carrier=""/>
+  <voicemailretar numeric="72207" vmnumber="555" carrier="MovistarArgentina"/>
+  <voicemailtefbr numeric="72406" vmnumber="*555" carrier="Vivo Brasil"/>
+  <voicemailtefbr numeric="72410" vmnumber="*555" carrier="Vivo Brasil"/>
+  <voicemailtefbr numeric="72411" vmnumber="*555" carrier="Vivo Brasil"/>
+  <voicemailtefbr numeric="72423" vmnumber="*555" carrier="Vivo Brasil"/>
+  <voicemailtefcl numeric="73002" vmnumber="500" carrier="MovistarChile"/>
+  <voicemailtefco numeric="732123" vmnumber="*123" carrier="MovistarColombia"/>
+  <voicemailtefmx numeric="33403" vmnumber="186" carrier="MovistarMexico"/>
+  <voicemailtefmx numeric="334030" vmnumber="186" carrier="MovistarMexico"/>
+  <voicemailtefpe numeric="71606" vmnumber="*169" carrier="MovistarPeru"/>
+  <voicemailperar numeric="" vmnumber="" carrier=""/>
+  <voicemailtimbr numeric="72402" vmnumber="*100" carrier="TIM Brasil"/>
+  <voicemailtimbr numeric="72403" vmnumber="*100" carrier="TIM Brasil"/>
+  <voicemailtimbr numeric="72404" vmnumber="*100" carrier="TIM Brasil"/>
+  <voicemailentcl numeric="73001" vmnumber="#123" carrier="EntelChile"/>
+  <voicemailentcl numeric="73010" vmnumber="#123" carrier="EntelChile"/>
+  <voicemailavaco numeric="732130" vmnumber="+573508888888" carrier="AvantelColombia"/>
+  <voicemailtigco numeric="732103" vmnumber="*123" carrier="TigoColombia"/>
+  <voicemailtigco numeric="732111" vmnumber="*123" carrier="TigoColombia"/>
+
+  <voicemailretbr numeric="72405" vmnumber="*100" carrier="Claro Brasil"/>
+  <voicemailretbr numeric="73003" vmnumber="*20" carrier="ClaroChile"/>
+  <voicemailretbr numeric="334020" vmnumber="*86" carrier="TelcelMexico"/>
+  <voicemailretbr numeric="71610" vmnumber="131" carrier="ClaroPeru"/>
+  <voicemailretbr numeric="72207" vmnumber="555" carrier="MovistarArgentina"/>
+  <voicemailretbr numeric="72406" vmnumber="*555" carrier="Vivo Brasil"/>
+  <voicemailretbr numeric="72410" vmnumber="*555" carrier="Vivo Brasil"/>
+  <voicemailretbr numeric="72411" vmnumber="*555" carrier="Vivo Brasil"/>
+  <voicemailretbr numeric="72423" vmnumber="*555" carrier="Vivo Brasil"/>
+  <voicemailretbr numeric="73002" vmnumber="500" carrier="MovistarChile"/>
+  <voicemailretbr numeric="732123" vmnumber="*123" carrier="MovistarColombia"/>
+  <voicemailretbr numeric="33403" vmnumber="186" carrier="MovistarMexico"/>
+  <voicemailretbr numeric="334030" vmnumber="186" carrier="MovistarMexico"/>
+  <voicemailretbr numeric="71606" vmnumber="*169" carrier="MovistarPeru"/>
+  <voicemailretbr numeric="72402" vmnumber="*100" carrier="TIM Brasil"/>
+  <voicemailretbr numeric="72403" vmnumber="*100" carrier="TIM Brasil"/>
+  <voicemailretbr numeric="72404" vmnumber="*100" carrier="TIM Brasil"/>
+  <voicemailretbr numeric="73001" vmnumber="#123" carrier="EntelChile"/>
+  <voicemailretbr numeric="73010" vmnumber="#123" carrier="EntelChile"/>
+  <voicemailretbr numeric="732130" vmnumber="+573508888888" carrier="AvantelColombia"/>
+  <voicemailretbr numeric="732103" vmnumber="*123" carrier="TigoColombia"/>
+  <voicemailretbr numeric="732111" vmnumber="*123" carrier="TigoColombia"/>
+
+  <voicemailretla numeric="72405" vmnumber="*100" carrier="Claro Brasil"/>
+  <voicemailretla numeric="73003" vmnumber="*20" carrier="ClaroChile"/>
+  <voicemailretla numeric="334020" vmnumber="*86" carrier="TelcelMexico"/>
+  <voicemailretla numeric="71610" vmnumber="131" carrier="ClaroPeru"/>
+  <voicemailretla numeric="72207" vmnumber="555" carrier="MovistarArgentina"/>
+  <voicemailretla numeric="72406" vmnumber="*555" carrier="Vivo Brasil"/>
+  <voicemailretla numeric="72410" vmnumber="*555" carrier="Vivo Brasil"/>
+  <voicemailretla numeric="72411" vmnumber="*555" carrier="Vivo Brasil"/>
+  <voicemailretla numeric="72423" vmnumber="*555" carrier="Vivo Brasil"/>
+  <voicemailretla numeric="73002" vmnumber="500" carrier="MovistarChile"/>
+  <voicemailretla numeric="732123" vmnumber="*123" carrier="MovistarColombia"/>
+  <voicemailretla numeric="33403" vmnumber="186" carrier="MovistarMexico"/>
+  <voicemailretla numeric="334030" vmnumber="186" carrier="MovistarMexico"/>
+  <voicemailretla numeric="71606" vmnumber="*169" carrier="MovistarPeru"/>
+  <voicemailretla numeric="72402" vmnumber="*100" carrier="TIM Brasil"/>
+  <voicemailretla numeric="72403" vmnumber="*100" carrier="TIM Brasil"/>
+  <voicemailretla numeric="72404" vmnumber="*100" carrier="TIM Brasil"/>
+  <voicemailretla numeric="73001" vmnumber="#123" carrier="EntelChile"/>
+  <voicemailretla numeric="73010" vmnumber="#123" carrier="EntelChile"/>
+  <voicemailretla numeric="732130" vmnumber="+573508888888" carrier="AvantelColombia"/>
+  <voicemailretla numeric="732103" vmnumber="*123" carrier="TigoColombia"/>
+  <voicemailretla numeric="732111" vmnumber="*123" carrier="TigoColombia"/>
+</voicemail>

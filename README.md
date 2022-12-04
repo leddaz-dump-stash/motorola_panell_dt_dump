@@ -1,0 +1,14 @@
+# panell_26_dt-user 7.0 NRD90M.06.016  release-keys
+- manufacturer: motorola
+- platform: mt6737m
+- codename: panell_dt
+- flavor: full_A158-user
+- release: 7.0
+- id: NRD90M.06.016
+- incremental: 016
+- tags: release-keys
+- fingerprint: motorola/panell_26_dt/panell_dt:7.0/NRD90M.06.016/016:user/release-keys
+- is_ab: false
+- brand: motorola
+- branch: panell_26_dt-user-7.0-NRD90M.06.016--release-keys
+- repo: motorola_panell_dt_dump

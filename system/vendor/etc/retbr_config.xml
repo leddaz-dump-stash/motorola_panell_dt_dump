@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table>
+    <!-- Item1:Language  Note:Defalut Language begin -->
+    <!-- end -->
+    <!-- Item2:AllApk  Note:All third Apks or custom's Apks begin -->
+    <!-- end -->
+    <!-- Item3:ShowApk  Notoe:Show ccode third Apks or custom's Aps begin -->
+    <item name="ShowApk" value="BRApps2-mot-signed,MotorolaLauncherRes_retbr"/>
+    <!-- end -->
+    <!-- Item4:Timezone  Notoe:Time zone begin -->
+    <!-- <item name="Timezone" value="GMT-03:00"/> -->
+    <!-- end -->
+    <!-- Item5:DefaultInputMethod  Notoe:Defalut input method begin -->
+    <!-- end -->
+    <!-- Item6:DefaultWallpaper  Notoe:Default wallpaper begin -->
+    <!-- end -->
+    <!-- Item7:SmsEncodeType  Notoe:Sms encode type begin -->
+    <!-- end -->
+    <!-- Item8:NumMinMatch  Notoe:Number match minLength begin -->
+    <!-- end -->
+    <!-- Item9:SpnFilePath  Notoe:Spn file path begin -->
+    <!-- end -->
+    <!-- Item10:ApnFilePath  Notoe:Apn file path begin -->
+    <!-- end -->
+    <!-- Item11:VspnGidlFilePath  Notoe:Virtual SPN by Gidl begin -->
+    <!-- end -->
+    <!-- Item12:VspnPnnFilePath  Notoe:Virtual SPN by Pnn begin -->
+    <!-- end -->
+    <!-- Item13:VspnSpnFilePath  Notoe:Virtual SPN by Spn begin -->
+    <!-- end -->	
+    <!-- Item14:VspnImsiFilePath  Notoe:Virtual SPN by Imsi begin -->
+    <!-- end -->
+    <!-- Item15:DefaultWorkspace  Notoe:Default workspace begin -->
+    <!-- end -->
+    <!-- Item16:ShowHyphenation  Notoe:InCall Dial number middle begin -->
+    <!-- end -->
+    <!-- Item17:Ecclist  Notoe:EccList path begin -->
+    <!-- end -->
+    <!-- Item18:CbonSet  Notoe:CB open/defalut shinbun begin -->
+    <item name="CbonSet" value="on,50"/>
+    <!-- end -->
+    <!-- Item19:DateFormat  Notoe:Date format begin -->
+    <!-- end -->
+    <!-- Item20:Use24hFormat  Notoe:Open 24 hour format begin -->
+    <!-- end -->
+    <!-- Item21:AddYahooBookmarks  Notoe:Add yahoo bookmarks begin -->
+    <!-- end -->
+    <!-- Item22:ChromeHomepage  Notoe:Chrome home page begin -->
+    <!-- end -->
+    <!-- Item23:ChromeBookmarks  Notoe:Chrome bookmarks begin -->
+    <!-- end -->
+    <!-- Item24:Homepage  Notoe:Defalut Browser Homepage begin -->
+    <!-- end -->
+    <!-- Item25:Bookmarks  Notoe:Defalut Browser Bookmarks begin -->
+    <!-- end -->	
+    <!-- Item26:SearchEngine  Notoe:Defalut Browser SearchEngine begin -->
+    <!-- end -->
+    <!-- Item27:ShowCMASTitleTime  Notoe:Show CB Title time begin -->
+    <!-- end -->
+    <!-- Item28:SpnNotDisplay  Notoe:Don't display Spn begin -->
+    <!-- end -->
+    <!-- Item29:CustomEhplmn  Notoe:Remove Roming begin -->
+    <!-- end -->
+    <!-- Item30:USSDBehindInCall  Notoe:USSD Dialog Behind InCall begin -->
+    <!-- end -->
+    <!-- Item31:USSDShowTitle  Notoe:USSD InputDialog show title  begin -->
+    <!-- gaoyuan@wind-mobi.com 2017.03.07 start-->
+    <item name="USSDBehindInCall" value="yes"/>
+    <!-- gaoyuan@wind-mobi.com 2017.03.07 end-->
+    <!-- end -->
+    <!-- Item32:NetworkInfoLine1  Notoe:Display SPN on extend statusbar begin -->
+    <item name="NetworkInfoLine1" value="yes"/>
+    <!-- end -->
+    <!-- Item33:NetworkInfoLine2  Notoe:Display SPN on extend statusbar begin -->
+    <item name="NetworkInfoLine2" value="yes"/>
+    <!-- end -->
+    <!-- Item35:DialingChangeSim  Notoe:User change calling sim  begin -->
+    <item name="DialingChangeSim" value="yes"/>
+    <!-- end -->
+    <!-- Item46:ShowCellBroadCastSetting Notoe:Show cell broadcast setting in Setting begin -->
+    <item name="ShowCellBroadCastSetting" value="yes"/>
+    <!-- end -->
+    <!-- Item50:SatisfyAddDistanceCode Note:support pre number on dial begin -->
+    <item name="SatisfyAddDistanceCode" value="yes"/>
+    <!-- end -->
+    <!-- Item52:CBDisplayBottom Notoe:Show Nomal cell broadcast in below CarrierText begin -->
+    <item name="CBDisplayBottom" value="yes"/>
+    <!-- end -->
+    <item name="EapSimSupport" value="true"/>
+    <!-- zhengxingshuang@wind-mobi.com 2017.02.28 start-->
+    <item name="Ecclist" value="/system/vendor/etc/ecc_list_A158_retbr.xml"/>
+    <item name="EnumberShowInCalllog" value="no"/>
+    <!-- zhengxingshuang@wind-mobi.com 2017.02.28 end-->
+    <item name="VoiceMailReadFromSim" value="yes"/>
+</table>
